@@ -26,29 +26,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d44213c9-a424-4952-9384-6d44acdad0ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/data_structure_comp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure_comp.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data_structure_comp.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data_structure_comp/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/data_structure_comp_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_structure_comp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_structure_comp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure_comp.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure_comp.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_structure_comp.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_comp.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/data_structure_comp_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/data_structure_comp_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="306" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,6 +67,42 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="ytplugin.issueListCompactView" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="DataStructureCompTest" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true" nameIsGenerated="true">
+      <module name="data_structure_comp" />
+      <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-Ilib:test" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/test/data_structure_comp_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Test::Unit/Shoulda/Minitest.DataStructureCompTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -82,11 +114,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590004256797</updated>
-      <workItem from="1590004258777" duration="1917000" />
+      <workItem from="1590004258777" duration="3530000" />
     </task>
+    <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
+      <created>1590006464955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590006464955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: DataStructure Subsystem:{No Subsystem} Component: Composition Sprints: 7 State: {Setup}" />
+        <option name="defaultSearch" value="project: DataStructure Subsystem:{No Subsystem} Component: Composition Sprints: 7 State: {Development}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -94,34 +134,56 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="432" y="175" key="#Servers" timestamp="1590004366387">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="432" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1590004366387" />
-    <state width="1545" height="269" key="GridCell.Tab.0.bottom" timestamp="1590005703840">
+    <state x="64" y="48" width="1542" height="907" key="CommitChangelistDialog2" timestamp="1590006464582">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1545" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1590005703840" />
-    <state width="1545" height="269" key="GridCell.Tab.0.center" timestamp="1590005703840">
+    <state x="64" y="48" width="1542" height="907" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1590006464582" />
+    <state width="1545" height="269" key="GridCell.Tab.0.bottom" timestamp="1590014912119">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1545" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1590005703840" />
-    <state width="1545" height="269" key="GridCell.Tab.0.left" timestamp="1590005703839">
+    <state width="1545" height="269" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1590014912119" />
+    <state width="1545" height="269" key="GridCell.Tab.0.center" timestamp="1590014912118">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1545" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1590005703839" />
-    <state width="1545" height="269" key="GridCell.Tab.0.right" timestamp="1590005703840">
+    <state width="1545" height="269" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1590014912118" />
+    <state width="1545" height="269" key="GridCell.Tab.0.left" timestamp="1590014912118">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state width="1545" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1590005703840" />
+    <state width="1545" height="269" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1590014912118" />
+    <state width="1545" height="269" key="GridCell.Tab.0.right" timestamp="1590014912119">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1545" height="269" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1590014912119" />
     <state x="424" y="235" width="816" height="550" key="find.popup" timestamp="1590004913678">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="424" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1590004913678" />
-    <state x="497" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590005779955">
+    <state x="497" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1590015146429">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="497" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590005779955" />
+    <state x="497" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1590015146429" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_structure_comp@DataStructureCompTest.rcov" NAME="DataStructureCompTest Coverage Results" MODIFIED="1590014908308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="data_structure_comp" />
   </component>
 </project>
